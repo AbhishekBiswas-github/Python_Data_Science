@@ -12,4 +12,5 @@ The dataset consists of various attributes such as **student ID, department, gra
 * Identify trends and correlations (e.g., impact of study hours on grades).
 * Categorize students into performance levels (Excellent, Good, Average, Poor).
 * Use pivot tables and statistical analysis for deeper insights.
-* This project provides a structured approach to understanding student performance and can be extended to make data-driven decisions in education systems.
+
+This project provides a structured approach to understanding student performance and can be extended to make data-driven decisions in education systems.
