@@ -28,7 +28,7 @@ The **Driver License Classification** project is a comprehensive machine learnin
 
 5. **Model Building**
    - Train a KMeans clustering model, tune cluster count, and map clusters to qualification outcomes.
-   - Evaluate model performance via confusion matrix and classification metrics.
+   - Evaluate model performance via evaliuation matrices and classification metrics.
 
 6. **Prediction for New Data**
    - Accept new applicant input and predict license qualification status with the trained model.
